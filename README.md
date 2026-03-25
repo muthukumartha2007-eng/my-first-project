@@ -1,2 +1,2 @@
-# my-first-project
+# its-a-my-first-thing
 hello.txt
